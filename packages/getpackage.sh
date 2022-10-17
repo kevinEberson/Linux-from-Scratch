@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#use check_call check_output of py + use parted
 
 cat packages.csv | while read line; do
 echo "$line"
