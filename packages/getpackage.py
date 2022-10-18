@@ -1,4 +1,4 @@
-from os import path, remove
+from os import path, remove, getcwd
 import subprocess
 import hashlib
 
@@ -14,14 +14,13 @@ with open(filePath) as file:
         packageMD5SUM = data[3].rstrip()
 
         cache = packageURL.rsplit('/', 1)[-1]
-        #print(cache)
 
         if not path.exists(cache):
             print("Downloading %s." % cache)
 
             try:
-                dest = ['wget', packageURL]
-                subprocess.check_call(dest)
+                installPath = getcwd() + '/packages'    #install path for packages
+                subprocess.check_call(['wget', packageURL, '-P', installPath])
             except:
                 print("Failed to download %s." % packageURL)
                 exit(1)
