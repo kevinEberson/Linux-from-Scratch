@@ -26,202 +26,54 @@ gettext;0.21;https://ftp.gnu.org/gnu/gettext/gettext-@.tar.xz;40996bbaf7d1356d3c
 glibc;2.36;https://ftp.gnu.org/gnu/glibc/glibc-@.tar.xz;00e9b89e043340f688bc93ec03239b57
 gmp;6.2.1;https://ftp.gnu.org/gnu/gmp/gmp-@.tar.xz;0b82665c4a92fd2ade7440c13fcaa42b
 gperf;3.1;https://ftp.gnu.org/gnu/gperf/gperf-@.tar.gz;9e251c0a618ad0824b51117d5d9db87e
-
-Grep (3.7) - 1,603 KB:
-Home page: https://www.gnu.org/software/grep/
-Download: https://ftp.gnu.org/gnu/grep/grep-3.7.tar.xz
-MD5 sum: 7c9cca97fa18670a21e72638c3e1dabf
-Groff (1.22.4) - 4,044 KB:
-Home page: https://www.gnu.org/software/groff/
-Download: https://ftp.gnu.org/gnu/groff/groff-1.22.4.tar.gz
-MD5 sum: 08fb04335e2f5e73f23ea4c3adbf0c5f
-GRUB (2.06) - 6,428 KB:
-Home page: https://www.gnu.org/software/grub/
-Download: https://ftp.gnu.org/gnu/grub/grub-2.06.tar.xz
-MD5 sum: cf0fd928b1e5479c8108ee52cb114363
-Gzip (1.12) - 807 KB:
-Home page: https://www.gnu.org/software/gzip/
-Download: https://ftp.gnu.org/gnu/gzip/gzip-1.12.tar.xz
-MD5 sum: 9608e4ac5f061b2a6479dc44e917a5db
-Iana-Etc (20220812) - 584 KB:
-Home page: https://www.iana.org/protocols
-Download: https://github.com/Mic92/iana-etc/releases/download/20220812/iana-etc-20220812.tar.gz
-MD5 sum: 851a53efd53c77d0ad7b3d2b68d8a3fc
-Inetutils (2.3) - 1,518 KB:
-Home page: https://www.gnu.org/software/inetutils/
-Download: https://ftp.gnu.org/gnu/inetutils/inetutils-2.3.tar.xz
-MD5 sum: e73e2ed42d73ceb47616b20131236036
-SHA256 sum:
-Intltool (0.51.0) - 159 KB:
-Home page: https://freedesktop.org/wiki/Software/intltool
-Download: https://launchpad.net/intltool/trunk/0.51.0/+download/intltool-0.51.0.tar.gz
-MD5 sum: 12e517cac2b57a0121cda351570f1e63
-IPRoute2 (5.19.0) - 872 KB:
-Home page: https://www.kernel.org/pub/linux/utils/net/iproute2/
-Download: https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-5.19.0.tar.xz
-MD5 sum: 415bd9eeb8515a585e245809d2fe45a6
-Kbd (2.5.1) - 1,457 KB:
-Home page: https://kbd-project.org/
-Download: https://www.kernel.org/pub/linux/utils/kbd/kbd-2.5.1.tar.xz
-MD5 sum: 10f10c0a9d897807733f2e2419814abb
-Kmod (30) - 555 KB:
-Download: https://www.kernel.org/pub/linux/utils/kernel/kmod/kmod-30.tar.xz
-MD5 sum: 85202f0740a75eb52f2163c776f9b564
-22Linux From Scratch - Version 11.2
-Less (590) - 348 KB:
-Home page: https://www.greenwoodsoftware.com/less/
-Download: https://www.greenwoodsoftware.com/less/less-590.tar.gz
-MD5 sum: f029087448357812fba450091a1172ab
-LFS-Bootscripts (20220723) - 33 KB:
-Download: https://www.linuxfromscratch.org/lfs/downloads/11.2/lfs-bootscripts-20220723.tar.xz
-MD5 sum: 74884d0d91616f843599c99a333666da
-Libcap (2.65) - 176 KB:
-Home page: https://sites.google.com/site/fullycapable/
-Download: https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-2.65.tar.xz
-MD5 sum: 3543e753dd941255c4def6cc67a462bb
-Libffi (3.4.2) - 1,320 KB:
-Home page: https://sourceware.org/libffi/
-Download: https://github.com/libffi/libffi/releases/download/v3.4.2/libffi-3.4.2.tar.gz
-MD5 sum: 294b921e6cf9ab0fbaea4b639f8fdbe8
-Libpipeline (1.5.6) - 954 KB:
-Home page: http://libpipeline.nongnu.org/
-Download: https://download.savannah.gnu.org/releases/libpipeline/libpipeline-1.5.6.tar.gz
-MD5 sum: 829c9ba46382b0b3e12dd11fcbc1bb27
-Libtool (2.4.7) - 996 KB:
-Home page: https://www.gnu.org/software/libtool/
-Download: https://ftp.gnu.org/gnu/libtool/libtool-2.4.7.tar.xz
-MD5 sum: 2fc0b6ddcd66a89ed6e45db28fa44232
-Linux (5.19.2) - 128,553 KB:
-Home page: https://www.kernel.org/
-Download: https://www.kernel.org/pub/linux/kernel/v5.x/linux-5.19.2.tar.xz
-MD5 sum: 391274e2e49a881403b0ff2e0712bf82
-
-M4 (1.4.19) - 1,617 KB:
-Home page: https://www.gnu.org/software/m4/
-Download: https://ftp.gnu.org/gnu/m4/m4-1.4.19.tar.xz
-MD5 sum: 0d90823e1426f1da2fd872df0311298d
-Make (4.3) - 2,263 KB:
-Home page: https://www.gnu.org/software/make/
-Download: https://ftp.gnu.org/gnu/make/make-4.3.tar.gz
-MD5 sum: fc7a67ea86ace13195b0bce683fd4469
-23Linux From Scratch - Version 11.2
-Man-DB (2.10.2) - 1,860 KB:
-Home page: https://www.nongnu.org/man-db/
-Download: https://download.savannah.gnu.org/releases/man-db/man-db-2.10.2.tar.xz
-MD5 sum: e327f7af3786d15e5851658ae7ef47ed
-Man-pages (5.13) - 1,752 KB:
-Home page: https://www.kernel.org/doc/man-pages/
-Download: https://www.kernel.org/pub/linux/docs/man-pages/man-pages-5.13.tar.xz
-MD5 sum: 3ac24e8c6fae26b801cb87ceb63c0a30
-Meson (0.63.1) - 2,016 KB:
-Home page: https://mesonbuild.com
-Download: https://github.com/mesonbuild/meson/releases/download/0.63.1/meson-0.63.1.tar.gz
-MD5 sum: 078e59d11a72b74c3bd78cb8205e9ed7
-MPC (1.2.1) - 820 KB:
-Home page: http://www.multiprecision.org/
-Download: https://ftp.gnu.org/gnu/mpc/mpc-1.2.1.tar.gz
-MD5 sum: 9f16c976c25bb0f76b50be749cd7a3a8
-MPFR (4.1.0) - 1,490 KB:
-Home page: https://www.mpfr.org/
-Download: https://ftp.gnu.org/gnu/mpfr/mpfr-4.1.0.tar.xz
-MD5 sum: bdd3d5efba9c17da8d83a35ec552baef
-Ncurses (6.3) - 3,500 KB:
-Home page: https://www.gnu.org/software/ncurses/
-Download: https://invisible-mirror.net/archives/ncurses/ncurses-6.3.tar.gz
-MD5 sum: a2736befde5fee7d2b7eb45eb281cdbe
-Ninja (1.11.0) - 228 KB:
-Home page: https://ninja-build.org/
-Download: https://github.com/ninja-build/ninja/archive/v1.11.0/ninja-1.11.0.tar.gz
-MD5 sum: 7d1a1a2f5cdc06795b3054df5c17d5ef
-OpenSSL (3.0.5) - 14,722 KB:
-Home page: https://www.openssl.org/
-Download: https://www.openssl.org/source/openssl-3.0.5.tar.gz
-MD5 sum: 163bb3e58c143793d1dc6a6ec7d185d5
-Patch (2.7.6) - 766 KB:
-Home page: https://savannah.gnu.org/projects/patch/
-Download: https://ftp.gnu.org/gnu/patch/patch-2.7.6.tar.xz
-MD5 sum: 78ad9937e4caadcba1526ef1853730d5
-Perl (5.36.0) - 12,746 KB:
-Home page: https://www.perl.org/
-Download: https://www.cpan.org/src/5.0/perl-5.36.0.tar.xz
-MD5 sum: 826e42da130011699172fd655e49cfa2
-24Linux From Scratch - Version 11.2
-Pkg-config (0.29.2) - 1,970 KB:
-Home page: https://www.freedesktop.org/wiki/Software/pkg-config
-Download: https://pkg-config.freedesktop.org/releases/pkg-config-0.29.2.tar.gz
-MD5 sum: f6e931e319531b736fadc017f470e68a
-Procps (4.0.0) - 979 KB:
-Home page: https://sourceforge.net/projects/procps-ng
-Download: https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-4.0.0.tar.xz
-MD5 sum: eedf93f2f6083afb7abf72188018e1e5
-Psmisc (23.5) - 395 KB:
-Home page: https://gitlab.com/psmisc/psmisc
-Download: https://sourceforge.net/projects/psmisc/files/psmisc/psmisc-23.5.tar.xz
-MD5 sum: 014f0b5d5ab32478a2c57812ad01e1fb
-Python (3.10.6) - 19,142 KB:
-Home page: https://www.python.org/
-Download: https://www.python.org/ftp/python/3.10.6/Python-3.10.6.tar.xz
-MD5 sum: afc7e14f7118d10d1ba95ae8e2134bf0
-Python Documentation (3.10.6) - 7,321 KB:
-Download: https://www.python.org/ftp/python/doc/3.10.6/python-3.10.6-docs-html.tar.bz2
-MD5 sum: 8f32c4f4f0b18ec56e8b3822bbaeb017
-Readline (8.1.2) - 2,923 KB:
-Home page: https://tiswww.case.edu/php/chet/readline/rltop.html
-Download: https://ftp.gnu.org/gnu/readline/readline-8.1.2.tar.gz
-MD5 sum: 12819fa739a78a6172400f399ab34f81
-Sed (4.8) - 1,317 KB:
-Home page: https://www.gnu.org/software/sed/
-Download: https://ftp.gnu.org/gnu/sed/sed-4.8.tar.xz
-MD5 sum: 6d906edfdb3202304059233f51f9a71d
-Shadow (4.12.2) - 1,706 KB:
-Home page: https://shadow-maint.github.io/shadow/
-Download: https://github.com/shadow-maint/shadow/releases/download/4.12.2/shadow-4.12.2.tar.xz
-MD5 sum: 52637cb34c357acf85c617cf95da34a6
-Sysklogd (1.5.1) - 88 KB:
-Home page: https://www.infodrom.org/projects/sysklogd/
-Download: https://www.infodrom.org/projects/sysklogd/download/sysklogd-1.5.1.tar.gz
-MD5 sum: c70599ab0d037fde724f7210c2c8d7f8
-Sysvinit (3.04) - 216 KB:
-Home page: https://savannah.nongnu.org/projects/sysvinit
-Download: https://download.savannah.gnu.org/releases/sysvinit/sysvinit-3.04.tar.xz
-MD5 sum: 9a00e5f15dd2f038f10feee50677ebff
-Tar (1.34) - 2,174 KB:
-Home page: https://www.gnu.org/software/tar/
-Download: https://ftp.gnu.org/gnu/tar/tar-1.34.tar.xz
-MD5 sum: 9a08d29a9ac4727130b5708347c0f5cf
-25Linux From Scratch - Version 11.2
-Tcl (8.6.12) - 10,112 KB:
-Home page: http://tcl.sourceforge.net/
-Download: https://downloads.sourceforge.net/tcl/tcl8.6.12-src.tar.gz
-MD5 sum: 87ea890821d2221f2ab5157bc5eb885f
-Tcl Documentation (8.6.12) - 1,176 KB:
-Download: https://downloads.sourceforge.net/tcl/tcl8.6.12-html.tar.gz
-MD5 sum: a0d1a5b60bbb68f2f0bd3066a19c527a
-Texinfo (6.8) - 4,848 KB:
-Home page: https://www.gnu.org/software/texinfo/
-Download: https://ftp.gnu.org/gnu/texinfo/texinfo-6.8.tar.xz
-MD5 sum: a91b404e30561a5df803e6eb3a53be71
-Time Zone Data (2022c) - 423 KB:
-Home page: https://www.iana.org/time-zones
-Download: https://www.iana.org/time-zones/repository/releases/tzdata2022c.tar.gz
-MD5 sum: 4e3b2369b68e713ba5d3f7456f20bfdb
-Udev-lfs Tarball (udev-lfs-20171102) - 11 KB:
-Download: https://anduin.linuxfromscratch.org/LFS/udev-lfs-20171102.tar.xz
-MD5 sum: 27cd82f9a61422e186b9d6759ddf1634
-Util-linux (2.38.1) - 7,321 KB:
-Home page: https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git/
-Download: https://www.kernel.org/pub/linux/utils/util-linux/v2.38/util-linux-2.38.1.tar.xz
-MD5 sum: cd11456f4ddd31f7fbfdd9488c0c0d02
-Vim (9.0.0228) - 16,372 KB:
-Home page: https://www.vim.org
-Download: https://anduin.linuxfromscratch.org/LFS/vim-9.0.0228.tar.gz
-MD5 sum: bc7e0a4829d94bb4c03a7a6b4ad6a8cf
-Note
-The version of vim changes daily. To get the latest version, go to https://github.com/vim/vim/tags.
-Wheel (0.37.1) - 65 KB:
-Home page: https://pypi.org/project/wheel/
-Download: https://anduin.linuxfromscratch.org/LFS/wheel-0.37.1.tar.gz
-MD5 sum: f490f1399e5903706cb1d4fbed9ecb28
+grep;3.7;https://ftp.gnu.org/gnu/grep/grep-@.tar.xz;7c9cca97fa18670a21e72638c3e1dabf
+groff;1.22.4;https://ftp.gnu.org/gnu/groff/groff-@.tar.gz;08fb04335e2f5e73f23ea4c3adbf0c5f
+grub;2.06;https://ftp.gnu.org/gnu/grub/grub-@.tar.xz;cf0fd928b1e5479c8108ee52cb114363
+gzip;1.12;https://ftp.gnu.org/gnu/gzip/gzip-@.tar.xz;9608e4ac5f061b2a6479dc44e917a5db
+iana-etc;20220812;https://github.com/Mic92/iana-etc/releases/download/@/iana-etc-@.tar.gz;851a53efd53c77d0ad7b3d2b68d8a3fc
+inetutils;2.3;https://ftp.gnu.org/gnu/inetutils/inetutils-@.tar.xz;e73e2ed42d73ceb47616b20131236036
+intltool;0.51.0;https://launchpad.net/intltool/trunk/@/+download/intltool-@.tar.gz;2e517cac2b57a0121cda351570f1e63
+iproute2;5.19.0;https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-@.tar.xz;415bd9eeb8515a585e245809d2fe45a6
+kbd;2.5.1;https://www.kernel.org/pub/linux/utils/kbd/kbd-@.tar.xz;10f10c0a9d897807733f2e2419814abb
+kmod;30;https://www.kernel.org/pub/linux/utils/kernel/kmod/kmod-@.tar.xz;85202f0740a75eb52f2163c776f9b564
+less;590;https://www.greenwoodsoftware.com/less/less-@.tar.gz;f029087448357812fba450091a1172ab
+lfs-bootscripts;20220723;https://www.linuxfromscratch.org/lfs/downloads/11.2/lfs-bootscripts-@.tar.xz;74884d0d91616f843599c99a333666da
+libcap;2.65;https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-@.tar.xz;3543e753dd941255c4def6cc67a462bb
+libffi;3.4.2;https://github.com/libffi/libffi/releases/download/v@/libffi-@.tar.gz;294b921e6cf9ab0fbaea4b639f8fdbe8
+libpipeline;1.5.6;https://download.savannah.gnu.org/releases/libpipeline/libpipeline-@.tar.gz;829c9ba46382b0b3e12dd11fcbc1bb27
+libtool;2.4.7;https://ftp.gnu.org/gnu/libtool/libtool-@.tar.xz;fc0b6ddcd66a89ed6e45db28fa44232
+linux;5.19.2;https://www.kernel.org/pub/linux/kernel/v5.x/linux-@.tar.xz;391274e2e49a881403b0ff2e0712bf82
+m4;1.4.19;https://ftp.gnu.org/gnu/m4/m4-@.tar.xz;0d90823e1426f1da2fd872df0311298d
+make;4.3;https://ftp.gnu.org/gnu/make/make-@.tar.gz;fc7a67ea86ace13195b0bce683fd4469
+man-db;2.10.2;https://download.savannah.gnu.org/releases/man-db/man-db-@.tar.xz;e327f7af3786d15e5851658ae7ef47ed
+man-pages;5.13;https://www.kernel.org/pub/linux/docs/man-pages/man-pages-@.tar.xz;3ac24e8c6fae26b801cb87ceb63c0a30
+meson;0.63.1;https://github.com/mesonbuild/meson/releases/download/@/meson-@.tar.gz;078e59d11a72b74c3bd78cb8205e9ed7
+mpc;1.2.1;https://ftp.gnu.org/gnu/mpc/mpc-@.tar.gz;9f16c976c25bb0f76b50be749cd7a3a8
+mpfr;4.1.0;https://ftp.gnu.org/gnu/mpfr/mpfr-@.tar.xz;bdd3d5efba9c17da8d83a35ec552baef
+ncurses;6.3;https://invisible-mirror.net/archives/ncurses/ncurses-@.tar.gz;a2736befde5fee7d2b7eb45eb281cdbe
+ninja;1.11.0;https://github.com/ninja-build/ninja/archive/v@/ninja-@.tar.gz;7d1a1a2f5cdc06795b3054df5c17d5ef
+openssl;3.0.5;https://www.openssl.org/source/openssl-@.tar.gz;163bb3e58c143793d1dc6a6ec7d185d5
+patch;2.7.6;https://ftp.gnu.org/gnu/patch/patch-@.tar.xz;78ad9937e4caadcba1526ef1853730d5
+perl;5.36.0;https://www.cpan.org/src/5.0/perl-@.tar.xz;826e42da130011699172fd655e49cfa2
+pkg-config;0.29.2;https://pkg-config.freedesktop.org/releases/pkg-config-@.tar.gz;f6e931e319531b736fadc017f470e68a
+procps;4.0.0;https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-@.tar.xz;eedf93f2f6083afb7abf72188018e1e5
+psmisc;23.5;https://sourceforge.net/projects/psmisc/files/psmisc/psmisc-@.tar.xz;014f0b5d5ab32478a2c57812ad01e1fb
+python;3.10.6;https://www.python.org/ftp/python/@/Python-@.tar.xz;afc7e14f7118d10d1ba95ae8e2134bf0
+python documentation;3.10.6;https://www.python.org/ftp/python/doc/@/python-@-docs-html.tar.bz2;8f32c4f4f0b18ec56e8b3822bbaeb017
+readline;8.1.2;https://ftp.gnu.org/gnu/readline/readline-@.tar.gz;12819fa739a78a6172400f399ab34f81
+sed;4.8;https://ftp.gnu.org/gnu/sed/sed-@.tar.xz;6d906edfdb3202304059233f51f9a71d
+shadow;4.12.2;https://github.com/shadow-maint/shadow/releases/download/@/shadow-@.tar.xz;52637cb34c357acf85c617cf95da34a6
+sysklogd;1.5.1;https://www.infodrom.org/projects/sysklogd/download/sysklogd-@.tar.gz;c70599ab0d037fde724f7210c2c8d7f8
+sysvinit;3.04;https://download.savannah.gnu.org/releases/sysvinit/sysvinit-@.tar.xz;9a00e5f15dd2f038f10feee50677ebff
+tar;1.34;https://ftp.gnu.org/gnu/tar/tar-@.tar.xz;9a08d29a9ac4727130b5708347c0f5cf
+tcl;8.6.12;https://downloads.sourceforge.net/tcl/tcl@-src.tar.gz;87ea890821d2221f2ab5157bc5eb885f
+tcl documentation;8.6.12;https://downloads.sourceforge.net/tcl/tcl@-html.tar.gz;a0d1a5b60bbb68f2f0bd3066a19c527a
+texinfo;6.8;https://ftp.gnu.org/gnu/texinfo/texinfo-@.tar.xz;a91b404e30561a5df803e6eb3a53be71
+time zone data;2022c;https://www.iana.org/time-zones/repository/releases/tzdata@.tar.gz;4e3b2369b68e713ba5d3f7456f20bfdb
+udev-lfs tarball;udev-lfs-20171102;https://anduin.linuxfromscratch.org/LFS/@.tar.xz;27cd82f9a61422e186b9d6759ddf1634
+util-linux;2.38.1;https://www.kernel.org/pub/linux/utils/util-linux/v@/util-linux-@.tar.xz;cd11456f4ddd31f7fbfdd9488c0c0d02
+vim;9.0.0228;https://anduin.linuxfromscratch.org/LFS/vim-@.tar.gz;bc7e0a4829d94bb4c03a7a6b4ad6a8cf
+wheel;0.37.1;https://anduin.linuxfromscratch.org/LFS/wheel-@.tar.gz;f490f1399e5903706cb1d4fbed9ecb28
 xml::Parser;2.46;https://cpan.metacpan.org/authors/id/T/TO/TODDR/XML-Parser-@.tar.gz;0bb18a8e6240fcf7ec2f7b57601c170
 xz utils;5.2.6;https://tukaani.org/xz/xz-@.tar.xz;d9cd5698e1ec06cf638c0d2d645e8175
 zlib;1.2.12;https://zlib.net/zlib-@.tar.xz;28687d676c04e7103bb6ff2b9694c471
