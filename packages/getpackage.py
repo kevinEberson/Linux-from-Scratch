@@ -1,10 +1,13 @@
-from os import path, remove, getcwd
+from os import chdir, path, remove, getcwd
 import subprocess
 import hashlib
 
 filePath = "packages.csv"
-
+installPath = getcwd() + '/packages'    #install path for packages
 with open(filePath) as file:
+    
+    chdir(installPath)
+
     for line in file:
         data = line.split(';')
 
@@ -19,12 +22,12 @@ with open(filePath) as file:
             print("Downloading %s." % cache)
 
             try:
-                installPath = getcwd() + '/packages'    #install path for packages
                 subprocess.check_call(['wget', packageURL, '-P', installPath])
             except:
                 print("Failed to download %s." % packageURL)
                 exit(1)
-     
+
+            
             with open(cache, 'rb') as downloadedFile:
                 data = downloadedFile.read()    
                 returnedMD5SUM = hashlib.md5(data).hexdigest()
